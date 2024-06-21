@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "altText": "Blog",
+            "altText": "Home",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
