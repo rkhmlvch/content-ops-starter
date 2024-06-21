@@ -52,8 +52,8 @@
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-centered-primary-nav-left",
-    "colors": "bg-neutral-fg-dark",
+    "variant": "logo-left-primary-nav-centered",
+    "colors": "bg-light-fg-dark",
     "type": "Header",
     "styles": {
         "self": {
